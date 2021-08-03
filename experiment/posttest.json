@@ -1,5 +1,5 @@
 [{
-	"question": "Determine the angle of dip in the following<br><img src=\"images/dip2.png\" height='253' width='300' />",
+	"question": "Determine the angle of dip in the following<br><img src=\"images/dip2.png\"\ height='253' width='300' />",
 	"answers": {
 		"a": "26.565&deg; to North",
 		"b": "63.435&deg; to North",
@@ -19,10 +19,10 @@
 }, {
 	"question": "Contour lines (thinner lines) between index contours are called",
 	"answers": {
-		"a": "Primary contour lines",
-		"b": "Intermediate contour lines",
-		"c": "Isolated contour lines",
-		"d": "None of the above"
+			"a": "Primary contour lines",
+			"b": "Intermediate contour lines",
+			"c": "Isolated contour lines",
+			"d": "None of the above"
 	},
 	"correctAnswer": "b"
 }, {
