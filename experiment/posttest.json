@@ -1,10 +1,10 @@
 [{
-	"question": "Determine the angle of dip in the following<br><img src=\"images/dip2.png\"\ height='253' width='300' />",
+	"question": "Determine the angle of dip in the following<br><img src=\"images/dip20.png\" height='253' width='300' />",
 	"answers": {
-		"a": "26.565&deg; to North",
-		"b": "63.435&deg; to North",
-		"c": "0&deg; to North",
-		"d": "90&deg; to North"
+		"a": "26.565° to North",
+		"b": "63.435° to North",
+		"c": "0° to North",
+		"d": "90° to North"
 	},
 	"correctAnswer": "b"
 }, {
