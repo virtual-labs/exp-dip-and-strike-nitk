@@ -11,8 +11,8 @@
 	"question": "Relation between true dip and apparent dip",
 	"answers": {
 		"a": "True dip=apparent dip",
-		"b": "True dip>apparent dip",
-		"c": "True dip<apparent dip",
+		"b": "True dip &gt; apparent dip",
+		"c": "True dip &lt; apparent dip",
 		"d": "Depends on topographic condition"
 	},
 	"correctAnswer": "b"

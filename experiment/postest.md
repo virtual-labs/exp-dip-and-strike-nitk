@@ -1,6 +1,6 @@
 ## Post test
 Q 1. Determine the angle of dip in the following.<br>
-  <img src="images/dip2.png" height="253" width="300"><br>
+  <img src="images/dip20.png" height="253" width="300"><br>
 a. 26.565° to North<br>
 <b>b. 63.435° to North</b><br>
 c. 0° to North<br>
@@ -24,11 +24,12 @@ b. Compass direction towards which the plane slopes<br>
 <b>c. Both A and B</b><br>
 d. None of the above<br><br>
 
-Q 5. Contour map is given below based on it answer the following questions with best possible answer.<br>
-<img src="images/dip3.png" height="253" width="300"><br> 
-Scale: 1cm=100m<br>
-Given that: AD=1.80cm, AB=1.15m, BD=0.6cm, DC=0.5cm, CE=1m<br>
-<b>a. 45</b><br>
-b. 54<br>
-c. 60<br>
-d. 30<br>
+Q 5. Based on the fact that “Higher the elevation of rock Younger will be the rock and vice versa.  
+Tell which among the following is the youngest rock and he oldest rock from the given contour map.  
+Limestone, Shale, Red Sandstone, Conglomerate, Sandstone.
+
+<img src="images/qn5.png" height="253" width="300"><br>
+a. Youngest: Shale, Oldest: Conglomerate  
+<b>b. Youngest: Limestone, Oldest: Conglomerate</b>  
+c. Youngest: Sandstone, Oldest: Shale  
+d. Youngest: Red Sandstone, Oldest: Conglomerate  
