@@ -1,6 +1,6 @@
 ## Post test
 Q 1. Determine the angle of dip in the following.<br>
-  <img src="images/dip2.png" height="253" width="300"><br>
+  <img src="images/dip20.png" height="253" width="300"><br>
 a. 26.565° to North<br>
 <b>b. 63.435° to North</b><br>
 c. 0° to North<br>
