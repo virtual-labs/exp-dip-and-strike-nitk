@@ -1,0 +1,46 @@
+[{
+	"question": "Which is correct about dip and strike?",
+	"answers": {
+		"a": "Both are perpendicular to each other",
+		"b": "Both are parallel to each other",
+		"c": "Intersect at some angle other than 90 degree",
+		"d": "None of above"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Relation between true dip and apparent dip",
+	"answers": {
+		"a": "True dip=apparent dip",
+		"b": "True dip &gt; apparent dip",
+		"c": "True dip &lt; apparent dip",
+		"d": "Depends on topographic condition"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Determine dip of the line AB (approx.)<br>Length of AB=5cm Scale:1cm=400m<br><img src=\"images/eq21.png\" height='150' width='300'/>",
+	"answers": {
+		"a": "15 degree",
+		"b": "11 degree",
+		"c": "10 degree",
+		"d": "5 degree"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Instrument used for contouring?",
+	"answers": {
+		"a": "Compass",
+		"b": "Clinometer",
+		"c": "Leveller",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": " __is the direction of the line that is formed by the intersection of the plane of the rock bed with a horizontal surface",
+	"answers": {
+		"a": "Dip",
+		"b": "Strike",
+		"c": "Fold",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}]
